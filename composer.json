@@ -15,7 +15,7 @@
     "php": ">=5.3.0"
   },
   "suggest": {
-    "kdyby/curl-ca-bundle": "Improve security through providing current CA ROOT certificates bundle"
+    "composer/ca-bundle": "Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle."
   },
   "autoload": {
     "classmap": ["lib/", "models/"]
