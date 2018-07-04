@@ -1,8 +1,8 @@
 {
-  "name": "robjuz/podio-php",
+  "name": "stefanmdt/podio-php",
   "description": "PHP Client for Podio API",
   "keywords": ["podio"],
-  "homepage": "https://github.com/robjuz/podio-php",
+  "homepage": "https://github.com/stefanmdt/podio-php",
   "license": "MIT",
   "authors": [
     {
